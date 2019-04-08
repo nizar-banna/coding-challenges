@@ -8,4 +8,4 @@ lonelyinteger has the following parameter(s):
 a: an array of integers
 
 For example ,a = [1,2,3,4,3,2,1] , the unique element is 4 .
-[ complete challenge ] (https://www.hackerrank.com/challenges/lonely-integer/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign) 
+[ complete challenge ](https://www.hackerrank.com/challenges/lonely-integer/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign) 
